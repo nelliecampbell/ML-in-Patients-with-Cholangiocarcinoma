@@ -12,9 +12,9 @@ Ingest Data
 Exploratory analysis  
 Data Cleaning/Engineering  
 ML Target Variable overall survival (Months)  
-  Split Data into Target and Features  
-  Handle categorical variables before feature selection  
-  Feature selection  
+--Split Data into Target and Features  
+--Handle categorical variables before feature selection  
+--Feature selection  
   Define models and metrics  
   Cross-validation for the training set  
   Fit the training model and make predictions on the test set  
