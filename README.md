@@ -15,18 +15,18 @@ ML Target Variable overall survival (Months)
 --Split Data into Target and Features  
 --Handle categorical variables before feature selection  
 --Feature selection  
-  Define models and metrics  
-  Cross-validation for the training set  
-  Fit the training model and make predictions on the test set  
-  Select the best model  
+--Define models and metrics  
+--Cross-validation for the training set  
+--Fit the training model and make predictions on the test set  
+--Select the best model  
 ML Target Variable overall survival status  
-  Split Data into Target and Features  
-  Handle categorical variables before feature selection  
-  Feature selection  
-  Define models and metrics  
-  Cross-validation for the training set  
-  Fit the training model and make predictions on the test set  
-  Select the best model  
+--Split Data into Target and Features  
+--Handle categorical variables before feature selection  
+--Feature selection  
+--Define models and metrics  
+--Cross-validation for the training set  
+--Fit the training model and make predictions on the test set  
+--Select the best model  
  
 
 ## Major Results
