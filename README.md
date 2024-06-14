@@ -8,25 +8,25 @@ This has led to patients having limited treatment options at the time of diagnos
 
 ## Workflow
 
-Ingest Data
-Exploratory analysis
-Data Cleaning/Engineering
-ML Target Variable overall survival (Months)
-  Split Data into Target and Features
-  Handle categorical variables before feature selection.
-  Feature selection
-  Define models and metrics.
-  Cross-validation for the training set
-  Fit the training model and make predictions on the test set.
-  Select the best model.
-ML Target Variable overall survival status
-  Split Data into Target and Features
-  Handle categorical variables before feature selection.
-  Feature selection
-  Define models and metrics.
-  Cross-validation for the training set
-  Fit the training model and make predictions on the test set.
-  Select the best model.
+Ingest Data  
+Exploratory analysis  
+Data Cleaning/Engineering  
+ML Target Variable overall survival (Months)  
+  Split Data into Target and Features  
+  Handle categorical variables before feature selection  
+  Feature selection  
+  Define models and metrics  
+  Cross-validation for the training set  
+  Fit the training model and make predictions on the test set  
+  Select the best model  
+ML Target Variable overall survival status  
+  Split Data into Target and Features  
+  Handle categorical variables before feature selection  
+  Feature selection  
+  Define models and metrics  
+  Cross-validation for the training set  
+  Fit the training model and make predictions on the test set  
+  Select the best model  
  
 
 ## Major Results
